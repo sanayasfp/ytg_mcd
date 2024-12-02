@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "674e155815cd569ef22b88ad"
+  },
+  "nom": "Restaurant 1",
+  "adresse": "1 Rue de Paris, 75001 Paris",
+  "borough": "Paris",
+  "grade": "A",
+  "score": 90,
+  "type": "restaurant"
+},
+{
+  "_id": {
+    "$oid": "674e155815cd569ef22b88ae"
+  },
+  "nom": "Restaurant 2",
+  "adresse": "2 Rue de Marseille, 13001 Marseille",
+  "borough": "Marseille",
+  "grade": "B",
+  "score": 80,
+  "type": "restaurant"
+},
+{
+  "_id": {
+    "$oid": "674e155815cd569ef22b88af"
+  },
+  "nom": "Restaurant 3",
+  "adresse": "3 Rue de Lyon, 69001 Lyon",
+  "borough": "Lyon",
+  "grade": "C",
+  "score": 70,
+  "type": "restaurant"
+},
+{
+  "_id": {
+    "$oid": "674e155815cd569ef22b88b0"
+  },
+  "nom": "Restaurant 4",
+  "adresse": "4 Rue de Nice, 06001 Nice",
+  "borough": "Nice",
+  "grade": "D",
+  "score": 60,
+  "type": "restaurant"
+},
+{
+  "_id": {
+    "$oid": "674e155815cd569ef22b88b1"
+  },
+  "nom": "Restaurant 5",
+  "adresse": "5 Rue de Bordeaux, 33001 Bordeaux",
+  "borough": "Bordeaux",
+  "grade": "F",
+  "score": 50,
+  "type": "restaurant"
+},
+{
+  "_id": {
+    "$oid": "674e155815cd569ef22b88b2"
+  },
+  "nom": "Restaurant Brooklyn 1",
+  "adresse": "1 Rue de Brooklyn, 11201 Brooklyn",
+  "borough": "Brooklyn",
+  "grade": "A",
+  "score": 90,
+  "type": "restaurant"
+},
+{
+  "_id": {
+    "$oid": "674e155815cd569ef22b88b3"
+  },
+  "nom": "Restaurant Brooklyn 2",
+  "adresse": "2 Rue de Brooklyn, 11202 Brooklyn",
+  "borough": "Brooklyn",
+  "grade": "C",
+  "score": 39,
+  "type": "restaurant"
+},
+{
+  "_id": {
+    "$oid": "674e155815cd569ef22b88b4"
+  },
+  "nom": "Restaurant Brooklyn 3",
+  "adresse": "3 Rue de Brooklyn, 11203 Brooklyn",
+  "borough": "Brooklyn",
+  "grade": "C",
+  "score": 70,
+  "type": "restaurant"
+},
+{
+  "_id": {
+    "$oid": "674e155815cd569ef22b88b5"
+  },
+  "nom": "Restaurant Brooklyn 4",
+  "adresse": "4 Rue de Brooklyn, 11204 Brooklyn",
+  "borough": "Brooklyn",
+  "grade": "D",
+  "score": 60,
+  "type": "restaurant"
+},
+{
+  "_id": {
+    "$oid": "674e155815cd569ef22b88b6"
+  },
+  "nom": "Restaurant Brooklyn 5",
+  "adresse": "5 Rue de Brooklyn, 11205 Brooklyn",
+  "borough": "Brooklyn",
+  "grade": "C",
+  "score": 26,
+  "type": "restaurant"
+}]
