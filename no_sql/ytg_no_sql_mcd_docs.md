@@ -381,6 +381,8 @@ use("ytg");
 db.getCollection("athletes").find({ age: { $gte: 20, $lte: 30 } }, { nom: 1, prenom: 1, _id: 0 });
 ```
 
+![Image Question 3-a](https://raw.githubusercontent.com/sanayasfp/ytg_mcd/refs/heads/main/no_sql/images/3-a.png)
+
 #### 3-b) Afficher la liste des compétitions qui ont lieu à Paris
 
 ```javascript
@@ -388,6 +390,8 @@ db.getCollection("athletes").find({ age: { $gte: 20, $lte: 30 } }, { nom: 1, pre
 use("ytg");
 db.getCollection("competitions").find({ ville: "Paris" }, { _id: 0 });
 ```
+
+![Image Question 3-b](https://raw.githubusercontent.com/sanayasfp/ytg_mcd/refs/heads/main/no_sql/images/3-b.png)
 
 ### 4) Importation des données des restaurants
 
@@ -397,6 +401,8 @@ db.getCollection("competitions").find({ ville: "Paris" }, { _id: 0 });
 # mongosh
 mongoimport --db ytg --collection restaurants --file ytg.restaurants.json
 ```
+
+![Image Question 4-a](https://raw.githubusercontent.com/sanayasfp/ytg_mcd/refs/heads/main/no_sql/images/4-a.png)
 
 #### b) Écrire les requêtes MongoDB qui permettent d’afficher tous les restaurants dont la clé est "borough" et la valeur "Brooklyn". Quel est nombre total de documents affichés
 
